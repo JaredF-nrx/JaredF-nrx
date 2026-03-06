@@ -17,7 +17,7 @@
 
 ## $ whoami
 
-Soy Jared, desarrollador frontend junior con base sólida en Vue.js
+Soy Jared, desarrollador frontend junior con conociemientos en Vue.js
 y el ecosistema JavaScript moderno. Me formé en un bootcamp intensivo
 de desarrollo web y complementé mi perfil técnico con la certificación
 **Google IT Support** en Coursera, lo que me da una visión más amplia
@@ -47,7 +47,7 @@ diseño oscuro, tarjeta de perfil, balance, tokens y acciones
 (Send, Transfer, QR Code). Enfocado en estructura HTML semántica
 y estilos modulares con SCSS.
 
-→ [Demo]((https://jaredf-nrx.github.io/proyecto-abp-m3/)) · [Repositorio](https://jaredf-nrx.github.io/proyecto-abp-m3/)
+→ [Demo](https://jaredf-nrx.github.io/proyecto-abp-m3/) · [Repositorio](https://jaredf-nrx.github.io/proyecto-abp-m3/)
 
 **⚡ Pokemon API & Tareas** — `JavaScript · API REST · HTML5 · CSS3`
 Aplicación web que consume la PokéAPI para buscar pokemones
@@ -72,4 +72,4 @@ pruebas unitarias y diseño profesional con librería UI.
 ## $ contact --open
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarx432@gmail.com.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarx432@gmail.com)
