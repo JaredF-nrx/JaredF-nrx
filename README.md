@@ -47,7 +47,7 @@ diseño oscuro, tarjeta de perfil, balance, tokens y acciones
 (Send, Transfer, QR Code). Enfocado en estructura HTML semántica
 y estilos modulares con SCSS.
 
-→ [Demo](https://jaredf-nrx.github.io/proyecto-abp-m3/) · [Repositorio](https://jaredf-nrx.github.io/proyecto-abp-m3/)
+→ [Demo](https://jaredf-nrx.github.io/proyecto-abp-m3/) · [Repositorio](https://github.com/JaredF-nrx/proyecto-abp-m3)
 
 **⚡ Pokemon API & Tareas** — `JavaScript · API REST · HTML5 · CSS3`
 Aplicación web que consume la PokéAPI para buscar pokemones
@@ -59,7 +59,7 @@ y gestionar una lista dinámica con opción de eliminación.
 Catálogo de e-commerce con API REST, estado centralizado con Vuex,
 pruebas unitarias y diseño profesional con librería UI.
 
-→ [Demo](https://jaredf-nrx.github.io/abp-7/) · [Repositorio](https://jaredf-nrx.github.io/abp-7/)
+→ [Demo](https://jaredf-nrx.github.io/abp-7/) · [Repositorio](https://github.com/JaredF-nrx/abp-7)
 
 ---
 
