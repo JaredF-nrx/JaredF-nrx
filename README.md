@@ -9,7 +9,7 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝ 
 ```
 
-### [ Frontend Developer · Santiago, Chile ]
+### [ Frontend Developer · Villarica, Chile ]
 
 </div>
 
@@ -41,16 +41,25 @@ y crecer dentro de un equipo real.
 ---
 
 ## $ cat proyectos.md
+**💳 Digital Wallet UI** — `HTML5 · SCSS`
+Maquetado estático de una interfaz de billetera digital con
+diseño oscuro, tarjeta de perfil, balance, tokens y acciones
+(Send, Transfer, QR Code). Enfocado en estructura HTML semántica
+y estilos modulares con SCSS.
 
-**📚 BookList SPA** — `Vue.js · Vue Router · SCSS`
-Gestor de libros interactivo con formularios reactivos, rutas
-dinámicas y componentes reutilizables.
-→ [Repositorio](https://github.com/JaredF-nrx/[nombre-repo])
+→ [Demo]((https://jaredf-nrx.github.io/proyecto-abp-m3/)) · [Repositorio](https://jaredf-nrx.github.io/proyecto-abp-m3/)
+
+**⚡ Pokemon API & Tareas** — `JavaScript · API REST · HTML5 · CSS3`
+Aplicación web que consume la PokéAPI para buscar pokemones
+y gestionar una lista dinámica con opción de eliminación.
+
+→ [Demo](https://jaredf-nrx.github.io/pokemon-api-tareas/) · [Repositorio](https://github.com/JaredF-nrx/pokemon-api-tareas)
 
 **🛍️ Vue Product Showcase** — `Vue.js · Vuex · Axios · Jest · Vuetify`
 Catálogo de e-commerce con API REST, estado centralizado con Vuex,
 pruebas unitarias y diseño profesional con librería UI.
-→ [Repositorio](https://github.com/JaredF-nrx/[nombre-repo])
+
+→ [Demo](https://jaredf-nrx.github.io/abp-7/) · [Repositorio](https://jaredf-nrx.github.io/abp-7/)
 
 ---
 
@@ -63,4 +72,4 @@ pruebas unitarias y diseño profesional con librería UI.
 ## $ contact --open
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarx432@gmail.com.com)
