@@ -61,4 +61,4 @@ ecosistema frontend.
 
 - 📍 Santiago, Chile
 - 💼 [LinkedIn](#)
-- 📧 tu-email@ejemplo.co
+- 📧 tu-email@ejemplo.com
